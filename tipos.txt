@@ -1,0 +1,6 @@
+- Added > para novos recursos
+- Changed > para alterações da funcionabilidade existente.
+- Deprecated  > para recursos que serão removidos em breve.
+- Removed > por enquanto recursos removidos.
+- Fixed > para quaisquer correções de bugs.
+- Security > em caso de vulnerabilidades.
