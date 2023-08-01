@@ -1,6 +1,2 @@
 olá, tudo bem ?
-<<<<<<< HEAD
-ola tudo bem ?
-=======
-olá tudo bem ?
->>>>>>> felipe-a
+
