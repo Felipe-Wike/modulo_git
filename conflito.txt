@@ -1,3 +1,4 @@
+olá, tudo bem ?
 <<<<<<< HEAD
 ola tudo bem ?
 =======
